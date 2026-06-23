@@ -88,14 +88,14 @@
           "value": "1ueWkURSwOXwQAUvXmydrG5Mm9xthZ2NVesyeGDdEJ1I",
           "mode": "list",
           "cachedResultName": "PracticeSheet",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1ueWkURSwOXwQAUvXmydrG5Mm9xthZ2NVesyeGDdEJ1I/edit?usp=drivesdk"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/*********/edit?usp=***"
         },
         "sheetName": {
           "__rl": true,
           "value": 684298005,
           "mode": "list",
           "cachedResultName": "n8n Email Log",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1ueWkURSwOXwQAUvXmydrG5Mm9xthZ2NVesyeGDdEJ1I/edit#gid=684298005"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/*******/edit#gid=***"
         },
         "columns": {
           "mappingMode": "defineBelow",
