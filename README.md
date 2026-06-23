@@ -181,8 +181,6 @@ Toggle the workflow to **Active**. It will now poll your inbox every minute auto
 ## 📸 Screenshots
 
 ### Workflow Canvas
-
-### Workflow Canvas
 ![Workflow Canvas](canvas.png)
 
 ### Google Sheets Output
