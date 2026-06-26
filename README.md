@@ -200,6 +200,4 @@ Toggle the workflow to **Active**. It will now poll your inbox every minute auto
 ## 👨‍💻 Author
 
 **Faraj Tamboli**
-AI/ML Engineer & Automation Developer
-
 Building production-grade automation systems using n8n, AI APIs, and cloud infrastructure.
